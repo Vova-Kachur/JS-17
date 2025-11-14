@@ -15,7 +15,7 @@ btnEl.textContent = find.value;
 // Створити розмітку з заголовком та зображенням. За допомогою JavaScript отримати доступ до зображення та змінити значення атрибута "src" на шлях до іншого зображення.
 
 const imgRef = document.querySelector(".img")
-imgRef.src = "https://www.internationalinsurance.com/wp-content/uploads/2017/07/img-logo-lg.png"
+imgRef.src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_LUNJngOd30HT7IPSUAOZa9HrisJ_6HQQbQ&s"
 console.log(imgRef);
 
 
